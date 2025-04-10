@@ -39,4 +39,3 @@ Feel free to explore these repositories to see my work in action.
 - GitHub: [Tonipenyallop](https://github.com/Tonipenyallop)
 - Location: Tokyo
 
-I'm always open to collaborating on interesting projects or discussing new opportunities. Don't hesitate to reach out!
