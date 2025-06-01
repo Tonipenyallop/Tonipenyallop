@@ -13,7 +13,7 @@
 ### 🚀 Tech Stack
 - **Languages:** Go, TypeScript, Python, C
 - **Frameworks:** React, Gin, Vite
-- **Cloud/Infra:** Docker, AWS (DynamoDB, S3), Kubernetes (learning)
+- **Cloud/Infra:** Docker, AWS (DynamoDB, EC2), Kubernetes (learning)
 - **Tooling:** GitHub Actions, Nginx, Postman
 
 ---
