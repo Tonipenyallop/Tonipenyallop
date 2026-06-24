@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** Go, TypeScript, Python, C
+- **Languages:** TypeScript, Python, Go
 - **Frameworks:** React, Gin, Vite
-- **Cloud/Infra:** Docker, AWS (DynamoDB, EC2), Kubernetes (learning)
+- **Cloud/Infra:** Docker, AWS, Kubernetes (learning)
 - **Tooling:** GitHub Actions, Nginx, Postman
 
 ---
@@ -23,6 +23,7 @@
 
 | Name | Description |
 |------|-------------|
+| [🕷️ webcrawler](https://github.com/Tonipenyallop/webcrawler) | Python, Redis, Docker, K8s for Webcrawler |
 | [🧠 pokedex-api](https://github.com/Tonipenyallop/pokedex-api) | Go + Gin based backend API for Pokédex |
 | [🌐 pokedex-react](https://github.com/Tonipenyallop/pokedex-react) | Vite + React frontend for Pokémon explorer |
 | [🔧 pokedex-infra](https://github.com/Tonipenyallop/pokedex-infra) | Docker Compose infrastructure for full-stack Pokédex |
