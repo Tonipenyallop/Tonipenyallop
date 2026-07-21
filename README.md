@@ -46,7 +46,6 @@
 ### 📫 Reach Me
 - 📍 Based in Tokyo 🇯🇵
 - 📨 [GitHub](https://github.com/Tonipenyallop)
-- 💬 Ask me about anything from backend, Docker, or Kubernetes!
 
 ---
 
